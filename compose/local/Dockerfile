@@ -1,4 +1,4 @@
-FROM hacklab/wordpress:v4.9.6-php7
+FROM hacklab/wordpress:v4.9.8-php7.1
 
 LABEL mantainer "hacklab/ <contato@hacklab.com.br>"
 
