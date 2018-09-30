@@ -10,7 +10,10 @@
     "require": {
         "wpackagist-plugin/all-in-one-wp-security-and-firewall":"*",
         "wpackagist-plugin/wordpress-seo": "*",
-        "wpackagist-plugin/google-analytics-dashboard-for-wp": "*"
+        "wpackagist-plugin/google-analytics-for-wordpress": "*",
+        "wpackagist-plugin/wp-sentry-integration": "*",
+        "wpackagist-plugin/w3-total-cache": "*",
+        "wpackagist-plugin/mailgun": "1.5.*"
     },
     "require-dev":{
         "wpackagist-plugin/query-monitor":"*"
