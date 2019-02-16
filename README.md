@@ -1,12 +1,8 @@
-# Projeto inicial WordPress
+# Apenas mais um site-portfólio pessoal
 
-Este repositório contém os arquivos iniciais para se ter um projeto WordPress
-nos moldes do Hacklab. Isso significa que as ferramentas de desenvolvimento
-e deploy estão protegidas por um padrão.
+Este repositório contém o código usado para criar o meu site pessoal. 
 
-A ideia é que seja feito um fork deste repositório para começar um novo projeto
-WordPress. Os arquivos deverão ser modificados conforme as peculiaridades do
-projeto.
+O modelo de desenvolvimento Wordpress encontrado aqui foi elaborado pelo [hacklab/](https://hacklab.com.br/) e é usado em dezenas de outros projetos. Você pode conhecer melhor esse trabalho [aqui](https://github.com/hacklabr/docker-wordpress).
 
 # Desenvolvimento
 
