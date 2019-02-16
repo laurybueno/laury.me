@@ -18,6 +18,7 @@ services:
       - ./wp-content:/var/www/html/wp-content
       - ./plugins:/var/www/html/plugins
       - ./themes:/var/www/html/themes
+      - ./docs:/var/www/html/docs
       - ./compose/local/wp-config.d:/var/www/html/wp-config.d
       - ./compose/local/htaccess:/var/www/html/.htaccess
   mysql:
