@@ -1,6 +1,6 @@
 {
-    "name": "hacklab/base-worpdress-repository",
-    "description": "Basic WordPress Repository",
+    "name": "laurybueno/laury.me",
+    "description": "Personal portfolio by Laury Bueno",
     "repositories":[
         {
             "type":"composer",
@@ -8,12 +8,9 @@
         }
     ],
     "require": {
-        "wpackagist-plugin/all-in-one-wp-security-and-firewall":"*",
         "wpackagist-plugin/wordpress-seo": "*",
         "wpackagist-plugin/google-analytics-for-wordpress": "*",
-        "wpackagist-plugin/wp-sentry-integration": "*",
-        "wpackagist-plugin/w3-total-cache": "*",
-        "wpackagist-plugin/mailgun": "1.5.*"
+        "wpackagist-plugin/static-html-output-plugin": "6.6.*"
     },
     "require-dev":{
         "wpackagist-plugin/query-monitor":"*"
